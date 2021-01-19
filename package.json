@@ -1,0 +1,19 @@
+{
+  "name": "reverseengineering",
+  "version": "1.0.0",
+  "description": "Reverse engineer the starter code provided and create a tutorial for the code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randyWhitley/ReverseEngineering.git"
+  },
+  "author": "Randy <randywhitley84@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/randyWhitley/ReverseEngineering/issues"
+  },
+  "homepage": "https://github.com/randyWhitley/ReverseEngineering#readme"
+}
